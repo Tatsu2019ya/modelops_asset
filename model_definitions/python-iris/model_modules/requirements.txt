@@ -105,9 +105,6 @@ teradataml==17.20.0.4
 teradatasql==17.20.0.31
 teradatasqlalchemy==17.20.0.0
 threadpoolctl==3.2.0
-torch==2.0.1+cpu
-torchaudio==2.0.2+cpu
-torchvision==0.15.2+cpu
 tornado==6.3.3
 tqdm==4.66.1
 traitlets==5.10.1
