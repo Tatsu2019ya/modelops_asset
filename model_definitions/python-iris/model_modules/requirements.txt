@@ -1,4 +1,4 @@
-aoa==7.0.1
+teradatamodelops==7.0.2
 catboost==1.2.2
 lightgbm==4.1.0
 matplotlib==3.8.0
